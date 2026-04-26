@@ -47,7 +47,7 @@ Out of scope: production web apps, SEO sites, dynamic systems that need a backen
 **This principle outranks "ask clarifying questions"** — asking questions presumes you understand the facts. If your facts are wrong, every question you ask is crooked.
 
 **Banned phrases (the moment you're about to say one of these, stop and search)**:
-- ❌ 我记得 X 还没发布 / "I think X hasn't launched yet"
+- ❌ "I think X hasn't launched yet"
 - ❌ "X is currently on version vN" (asserted without searching)
 - ❌ "X probably doesn't exist as a product"
 - ❌ "As far as I know, X's specs are..."
